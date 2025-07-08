@@ -1,4 +1,4 @@
-# tomatect:AI-Powered Tomato Disease Detection Application
+# Tomatect: AI-Powered Tomato Disease Detection Application
 
 
 A new Flutter project.
